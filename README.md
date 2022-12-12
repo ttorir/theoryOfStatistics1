@@ -5,7 +5,7 @@
 Work is directly inspired by: Sharma, Pratyush & Sarstedt, Marko & Shmueli, Galit & Kim, Kevin & Thiele, Kai. (2018). PLS-Based Model Selection: The Role of Alternative Explanations in Information Systems Research. Journal of the Association for Information Systems. 10.17705/1jais.00538. <br>
 
 ### Summary
-PLS SEM modeling of Seattle area housing data. Statistical selection of 
+PLS SEM modeling of Seattle area housing data. Statistical selection of different pathway models.
 
 ### Environment
 All packages needed are included in `requirements.txt`
